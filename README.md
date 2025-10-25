@@ -21,7 +21,7 @@ box-predictor-notebooks/
 
 ---
 
-## 🚀 Quickstart
+## Quickstart
 
 ```bash
 python -m venv .venv
