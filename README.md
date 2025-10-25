@@ -7,7 +7,7 @@ The resulting model (`model.joblib`, `preprocess.joblib`, `schema.json`) is used
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 ```
 box-predictor-notebooks/
 ├── notebooks/
