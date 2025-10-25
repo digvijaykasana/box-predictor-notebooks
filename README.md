@@ -34,7 +34,7 @@ Then open `notebooks/optima_model.ipynb` to explore or rerun the workflow.
 
 ---
 
-## 🧠 Training and Exporting Artifacts
+## Training and Exporting Artifacts
 
 Example snippet to save your trained Optima model and preprocessor:
 
@@ -60,7 +60,7 @@ preds = model.predict(X_new)
 
 ---
 
-## 🧩 Integration
+## Integration
 
 This repository provides artifacts for:
 - **box-predictor-adk** → wraps Optima model via Google ADK for LLM-driven predictions.
@@ -77,7 +77,7 @@ MODEL_PATH=./artifacts/model.joblib
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 See `requirements.txt`:
 ```
